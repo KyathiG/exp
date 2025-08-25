@@ -1,0 +1,3 @@
+name : Kyathi
+course : BSc DS
+Through features like branches, pull requests, and issues, multiple people can work on the same project, suggest changes, review each other’s code, and track progress, all in one place.
